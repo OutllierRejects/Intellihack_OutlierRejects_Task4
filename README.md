@@ -14,7 +14,7 @@ Findings:
 | LSTM                                   | **68.92**                   | **0.0525**               |
 | LSTM + Soft Voting (LSTM, SVR, GB)     | 68.78                   | 0.1654               |
 
-To reproduce these results, refer to the Jupiter notebook and CSV file in this repository. 
+To reproduce these results, refer to the Jupiter notebook and "question4-stock-data.csv" file in this repository. 
 
 You can also clone this repository using:<br>
 ```git clone https://github.com/naheem88/StockPricePrediction.git```<br>
