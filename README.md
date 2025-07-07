@@ -1,4 +1,4 @@
-# StockPricePrediction
+# Stock Price Prediction
 This ML model was built to predict stock prices. Multiple EDA and preprocessing techniques were used to prepare the dataset to train the model. Multiple models were evaluated using directional accuracy and RMSE, such as RandomForest, Gradient Boosting, Liner Regression, SVR and LSTM, to determine which model to use.
 
 Findings: 
